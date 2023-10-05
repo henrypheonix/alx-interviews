@@ -1,4 +1,5 @@
-pt will unlock list of lists"""
+#!/usr/bin/python3
+'''Module to return pascal triangle'''
 
 
 def canUnlockAll(boxes):
